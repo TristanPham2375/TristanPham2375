@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pham6333@mylaurier.ca**
 
-- ⚡ Fun fact **I am a Barca fan**
+- ⚡ Fun fact **I play football, volleyball and boxing and I am a Barca fan (I like sports)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
