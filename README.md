@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Tristan Pham</h1>
-<h3 align="center">A passionate data science student</h3>
+<h3 align="center">A passionate Data Science student</h3>
 
 - 🔭 I’m currently working on a Mall Pathfinder project - taking foundations from my [Digital Mapping tool](https://github.com/TristanPham2375/Digital-Mapping-tool)
 
-- 🌱 I’m currently learning **Java and SQL**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TristanPham2375?tab=repositories](https://github.com/TristanPham2375?tab=repositories)
 
