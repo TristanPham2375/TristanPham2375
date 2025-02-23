@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pham6333@mylaurier.ca**
 
-- ⚡ Fun fact **Fun fact I play football, volleyball and boxing and I am a Barca fan (I like sports)**
+- ⚡ Fun fact **Fun fact I love playing and watching Soccer, I frequently play on GoodRec, feel free to reach out to join a game or talk about Soccer! (I am a Culer)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
