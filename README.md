@@ -1,5 +1,17 @@
+<h2 align="center">👋 I'm Tristan, Welcome to my Profile</h2>
+
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+###
+
+<p align="center">🔭 I’m working on Kickoff EDA project<br>📚 I'm currently learning PowerBI & AWS SageMaker<br>📫 Reach out to me through pham6333@mylaurier.ca <br>⚡ I love soccer and I'm a Culer</p>
+
+###
+
 <div align="center">
-  <img height="150" src="file:///C:/Users/ADMIN/Downloads/logo-1741589741073.png"  />
+  <img height="150" src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/05/Potato-GIrl.jpeg"  />
 </div>
 
 ###
@@ -45,42 +57,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
-
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="center">🔭 I’m working on Kickoff EDA project<br>📚 I'm currently learning PowerBI & AWS SageMaker<br>📫 Reach out to me through pham6333@mylaurier.ca <br>⚡ I love soccer and I'm a Culer</p>
-
-###
-
-<h3 align="center">🌐 Socials</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TristanPham2375&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TristanPham2375&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=TristanPham2375&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/TristanPham2375/TristanPham2375/output/snake.svg" alt="Snake animation" />
 
 ###
 
