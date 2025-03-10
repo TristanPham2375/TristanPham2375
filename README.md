@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/05/Potato-GIrl.jpeg](https://i.pinimg.com/originals/f8/96/b0/f896b04303a5fb546296d633f05d424e.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/f8/96/b0/f896b04303a5fb546296d633f05d424e.gif"  />
 </div>
 
 ###
