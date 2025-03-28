@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">🔭 I’m working on Kickoff EDA project<br>📚 I'm currently learning PowerBI & AWS SageMaker<br>📫 Reach out to me through pham6333@mylaurier.ca <br>⚡ I love soccer and I'm a Culer</p>
+<p align="center">🔭 I’m working on Kickoff EDA project<br>📚 I'm currently learning PowerBI & AWS SageMaker<br>📫 Reach out to me through pham6333@mylaurier.ca <br>⚡ I love Soccer and F1</p>
 
 ###
 
