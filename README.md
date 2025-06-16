@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">🔭 I’m working on Kickoff EDA project<br>📚 I'm currently learning Cloud Technologies (AWS, GCP, Azure)<br>📫 Reach out to me through pham6333@mylaurier.ca <br>⚡ Big F1 Fan, especially rookies (Alonso)</p>
+<p align="center">🔭 I’m working on Customer Churn Analysis for Retail Banking project<br>📚 I'm currently learning Cloud Technologies (AWS, GCP, Azure)<br>📫 Reach out to me through pham6333@mylaurier.ca <br>⚡ Big F1 Fan, especially rookies (Alonso)</p>
 
 ###
 
